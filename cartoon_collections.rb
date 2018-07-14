@@ -2,7 +2,7 @@ def roll_call_dwarves (dwarves)
     dwarves = ["Doc", "Dopey", "Grumpy", "Bashful"]
     dwarves.each do |x|
       x + 1 
-      puts  
+      puts   
 end
 
 def summon_captain_planet# code an argument here
