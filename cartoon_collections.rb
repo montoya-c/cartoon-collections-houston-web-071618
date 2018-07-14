@@ -1,7 +1,7 @@
 def roll_call_dwarves (dwarves)
     dwarves = ["Doc", "Dopey", "Grumpy", "Bashful"]
     dwarves.each do |x|
-      x
+      x +
       puts  
       
       
